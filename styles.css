@@ -73,4 +73,8 @@ header p {
   border-radius: 50%;
   bottom: 0;
   z-index: -1;
+  
+}
+.visual{
+	position:relative;
 }
